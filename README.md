@@ -3,6 +3,12 @@ Free Statistics Folder Size
 
 Count the size of all the folders on the computer and display them with tree menu. And all the large files and folders on the computer are listed separately. Refer to the screenshot for statistical results.
 
+Download address：
+
+https://github.com/FreeWindowsApp/FreeStatFolder/releases
+
+http://soft.freewindowsapp.com/download/free-stat-folder.html
+
 features：
 
 1. This tool is cross platform and supports windows and MAC computers;
