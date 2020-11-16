@@ -1,7 +1,7 @@
 # FreeStatFolder
 Free Statistics Folder Size
 
-Count the size of all the folders on the computer and display them with tree menu. And all the large files and folders on the computer are listed separately. Refer to the screenshot for statistical results.
+Find all large files that take up disk space, Count the size of all the folders on the computer and display them with tree menu. And all the large files and folders on the computer are listed separately. Refer to the screenshot for statistical results.
 
 Download address：
 
