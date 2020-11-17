@@ -22,4 +22,6 @@ features：
 
 ![StatFolder-english-screenshot](https://user-images.githubusercontent.com/58068964/99369669-ae39f880-28f7-11eb-96ee-2333377bbc9a.png)
 
+Official website：http://soft.freewindowsapp.com/
+
 and,Do you want to encrypt the folder?go to: https://github.com/FreeWindowsApp/FreeEncryptFolder
