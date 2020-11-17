@@ -19,4 +19,7 @@ features：
 
 4. Support English and Chinese display.
 
+
+![StatFolder-english-screenshot](https://user-images.githubusercontent.com/58068964/99369669-ae39f880-28f7-11eb-96ee-2333377bbc9a.png)
+
 and,Do you want to encrypt the folder?go to: https://github.com/FreeWindowsApp/FreeEncryptFolder
