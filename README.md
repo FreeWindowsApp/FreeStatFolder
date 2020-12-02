@@ -22,6 +22,11 @@ features：
 
 ![StatFolder-english-screenshot](https://user-images.githubusercontent.com/58068964/99369669-ae39f880-28f7-11eb-96ee-2333377bbc9a.png)
 
+
+
+中文版说明：https://github.com/FreeWindowsApp/FreeStatFolder/blob/main/%E4%B8%AD%E6%96%87%E7%89%88%E8%AF%B4%E6%98%8E.md
+
+
 Official website：http://soft.freewindowsapp.com/
 
 and,Do you want to encrypt the folder?go to: https://github.com/FreeWindowsApp/FreeEncryptFolder
